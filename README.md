@@ -9,7 +9,7 @@
    >**Repeat steps 1-3 using the correct file**
 
 4. If the selected file is correct, the upgrade will start. DO NOT turn off the power or disconnect the USB during the process. USB update can take several minutes to complete.
-5. When the update is complete, the fixture will automatically reboot.
+5. When the update is complete, the product will automatically reboot.
 6. Go to Fixture Information on the product’s menu map and confirm the firmware revision.
 7. When the boot-up process is finished, restart the product.
 
