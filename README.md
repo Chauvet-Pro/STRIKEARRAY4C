@@ -2,10 +2,20 @@
 
 ## Software Versions
 
+[V1.0.2 - STRIKE Array 4C](https://github.com/Chauvet-Pro/STRIKEARRAY4C/blob/b4890528c434b3aa684fae13b64e1ea5e1b899f5/Firmware/V1.0.2_04-11-25.zip)                         
+- Added the 4ch and 10ch2 mode (duplicate the 4ch and 10ch modes from the Strike Array 4)
+- Fixed the Auto Programs 4, 5, 6 out of sync issue.  
+- Moved the temperature and battery capacity icons down a bit.
+- Changed the Control Channel according to the Well series.
+- Added the sub-net mask
+- Revised the linear response speed of low-end dimming brightness
+- Changed the function and information in the Web-server
+- Changed the starting channel settings for Ethernet
+- Updated the USB upgrade function, only works when enter the USB upgrade interface 
+
+
 [V1.0.1 - STRIKE Array 4C](https://github.com/Chauvet-Pro/STRIKEARRAY4C/blob/5ed9f00556d0e4923e88baf0b694421d1b69520a/Firmware/V1.0.1_04-29-24.zip)
 - Released software version
-
-&nbsp;
 
 &nbsp;
 
