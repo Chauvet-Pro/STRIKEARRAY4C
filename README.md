@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.0.3 - STRIKE Array 4C](https://github.com/Chauvet-Pro/STRIKEARRAY4C/blob/64a6ff3c5d117cf3988c453fb95969f8193fe33c/Firmware/V1.0.3_04-23-2025.zip)
+- Fixes sACN bug found in v1.0.2
+
 [V1.0.2 - STRIKE Array 4C](https://github.com/Chauvet-Pro/STRIKEARRAY4C/blob/b4890528c434b3aa684fae13b64e1ea5e1b899f5/Firmware/V1.0.2_04-11-25.zip)                         
 - Added the 4ch and 10ch2 mode (duplicate the 4ch and 10ch modes from the Strike Array 4)
 - Fixed the Auto Programs 4, 5, 6 out of sync issue.  
