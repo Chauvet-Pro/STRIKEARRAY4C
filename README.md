@@ -2,6 +2,12 @@
 
 ## Software Versions
 
+[V1.0.5 - STRIKE Array 4C](https://github.com/Chauvet-Pro/STRIKEARRAY4C/blob/5e5fcc79f978abf32411f04b9c9aefe5b0c18af0/Firmware/V1.0.5_08-12-25.zip)
+- Revised the DRV FLASH clock wait cycles
+- Fixed the backup battery indicator icon appearance inconsistencies
+- Changed the firmware revision (V1.0) shown via ArtRDM
+- Optimized the red shift effect at 25CH mode with various PWM combinations
+
 [V1.0.4 - STRIKE Array 4C](https://github.com/Chauvet-Pro/STRIKEARRAY4C/blob/71913ef3ca8627ae6f999cd5a7e5e2f92ea3cdca/Firmware/V1.0.4_07-24-2025.zip)
 - Expands sACN Universe Limit and optimizes fan control
 
