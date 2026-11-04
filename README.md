@@ -3,7 +3,7 @@
 ## Software Versions
 
 [V1.0.6 - STRIKE Array 4C](https://github.com/Chauvet-Pro/STRIKEARRAY4C/blob/c7cf75f2a76e7f11db91d7a97ee78baf8ae89c50/Firmware/V1.0.6.zip)
-- Fixes a bug that caused the FAN Modes to be enabled momentarily without confirming the selection.
+- Fixed a bug that enabled fan modes momentarily without confirming the selection.
 
 [V1.0.5 - STRIKE Array 4C](https://github.com/Chauvet-Pro/STRIKEARRAY4C/blob/5e5fcc79f978abf32411f04b9c9aefe5b0c18af0/Firmware/V1.0.5_08-12-25.zip)
 - Revised the DRV FLASH clock wait cycles
